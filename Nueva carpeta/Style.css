@@ -1,0 +1,64 @@
+/* Esta es la estrucura para generar el estilo */
+
+h2{
+    color: rgb(192, 26, 137);
+}
+p{
+    font-size: 10px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border-style: solid;
+    padding: 50px;
+    width: 300px;
+    background-color: blue;
+}
+body{
+    background-color:aquamarine;
+}
+/* las clases inician con . */
+.parrafo{
+    font-size: 15px;
+    font-style: oblique;
+}
+/* los id inician con # */
+#parrafo2{
+    font-size: 20px;
+}
+nav{
+    margin-left: 50px;
+    border-style: solid;
+    background-color: yellow;
+}
+
+.a1 {
+    font-size: 30px;
+    color: black;
+    background-color: red;
+    border-radius: 40px;
+    font-style: oblique;
+    padding: 10px;
+}
+.a2 {
+    font-size: 30px;
+    color: black;
+    background-color: purple;
+    border-radius: 40px;
+    font-style: oblique;
+    padding: 10px;
+}
+.a3 {
+    font-size: 30px;
+    color: black;
+    background-color: orangered;
+    border-radius: 40px;
+    font-style: oblique;
+    padding: 10px;
+}
+.a4 {
+    font-size: 30px;
+    color: black;
+    background-color: green;
+    border-radius: 40px;
+    font-style: oblique;
+    padding: 10px;
+}
