@@ -21,6 +21,9 @@ Se puede utilizar un etiqueta para darle el  estilo  a una seccion deseada  */
     color: darkred;
 }
 
+.parrafo{
+    color: rebeccapurple;
+}
 /* #div-parrafo{
     color: blue;
 } */
