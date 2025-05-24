@@ -47,6 +47,12 @@ Se puede utilizar un etiqueta para darle el  estilo  a una seccion deseada  */
 h2 + p {
     color: red;
 } */
+
+/* Le aplica a todos  los hemanos
 h2 ~ p {
     color: red;
-} 
+}  */
+/* Le aplica a todos los hijos p de body */
+body > p {
+    color: grey;
+}
