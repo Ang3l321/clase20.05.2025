@@ -31,3 +31,22 @@ Se puede utilizar un etiqueta para darle el  estilo  a una seccion deseada  */
 /* #div-parrafo{
     color: blue;
 } */
+
+ /* Combinadores */
+
+ /* Tipos:
+ "+, > , ~" */
+
+ /* aplica el estilo a los hijos de la etiqueta inicial */
+
+ /* body p {
+    color: red;
+ } */
+
+ /* + Le aplica estilos a los hermanos posteriores 
+h2 + p {
+    color: red;
+} */
+h2 ~ p {
+    color: red;
+} 
