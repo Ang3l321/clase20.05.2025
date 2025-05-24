@@ -3,6 +3,16 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     color: pink;
 }
-div{
-    background-color: orange;
+
+p{
+    color: red;
+    
+}
+
+.parrafo{
+    color: black;
+}
+
+#div-parrafo{
+    color: blue;
 }
