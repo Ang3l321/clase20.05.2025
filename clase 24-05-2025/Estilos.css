@@ -15,7 +15,8 @@ p{
 .parrafo{
     color: black;
 }
-
+/* }
+Se puede utilizar un etiqueta para darle el  estilo  a una seccion deseada  */
 #seccion p {
     color: darkred;
 }
