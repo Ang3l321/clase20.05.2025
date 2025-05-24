@@ -48,7 +48,7 @@ h2 + p {
     color: red;
 } */
 
-/* Le aplica a todos  los hemanos
+/* Le aplica a todos parrafor del mismo nivel
 h2 ~ p {
     color: red;
 }  */
